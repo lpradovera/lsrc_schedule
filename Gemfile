@@ -1,6 +1,7 @@
 source :rubygems
 
 gem "adhearsion", "~> 2.1.0"
+gem 'httparty'
 
 #
 # Here are some example plugins you might like to use. Simply
